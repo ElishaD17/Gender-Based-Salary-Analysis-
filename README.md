@@ -1,7 +1,5 @@
 # Gender-Based Salary Analysis using SQL and Tableau
 
----
-
 ## Introduction
 
 This project examines gender discrepancies in salaries within a company, leveraging the power of SQL for data extraction and Tableau for visualization. The analysis uses a modified version of the familiar 'employees' database, enabling us to focus on intricate Business Intelligence tasks while working with a known dataset.
@@ -33,6 +31,7 @@ This project examines gender discrepancies in salaries within a company, leverag
    - Organize visuals into a cohesive dashboard, optimizing for clarity and user experience.
 
 ## Results
+![dv](moa.png)
 
 - Created a comprehensive dashboard in Tableau, offering insights into gender disparities within the company's salary structure.
 - Identified departments with pronounced gender salary gaps.
